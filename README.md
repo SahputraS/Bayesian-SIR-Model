@@ -2,7 +2,7 @@
 Bayesian SIR Model 
 
 
-This project replicates the methodology presented in [1] to estimate the transmission rate and reemoval rate of the SIR model using Bayesian inference and MCMC simulation. 
+This group project replicates the methodology presented in [1] to estimate the transmission rate and reemoval rate of the SIR model using Bayesian inference and MCMC simulation. 
 However, there are some challenges in achieving the expected outcomes. 
 
 Reference:
